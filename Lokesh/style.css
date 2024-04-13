@@ -1,0 +1,43 @@
+.main{
+    background-color: slategrey;
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    margin: 20px;
+    
+    }
+.head{
+    color: rgb(252, 29, 29);
+    
+    background-color: black;
+    padding: 10px;
+    height: 40px;
+    padding: 14px;
+    border-radius: 10px;
+
+}
+.main1{
+    
+    padding: 10px;
+}
+.h1{
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+
+}
+.m1{
+    padding: 10px;
+    width:px;
+}
+.button{
+    background-color: black;
+    color: white;
+    font-family: "roboto";
+    font-size: 15px;
+    font-weight: bold;
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    margin: 10px;
+}
